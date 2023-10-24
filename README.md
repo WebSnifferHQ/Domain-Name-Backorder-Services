@@ -6,7 +6,7 @@ A list of domain name backorder services.
 
 Domain backorder meaning — domain backorder is a process of trying to obtain a domain once it's up for registration again. Essentially, a domain backorder acts as a reservation for a domain; you enlist yourself, and when the domain expires, you're prioritized to register it before others.
 
-This repository presents a compilation of domain backordering platforms, detailing their procedures, pricing, and unique features. Navigate the world of expired domains more efficiently with this comprehensive guide.
+This repository presents an up-to-date compilation of domain backordering platforms, detailing their procedures, pricing, and unique features. Navigate the world of expired domains more efficiently with this comprehensive guide.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ This repository presents a compilation of domain backordering platforms, detaili
 | Registrar | Description |
 |---|---|
 | [123 Reg](https://www.123-reg.co.uk/domain-names/backorder/) | Free backorder; only pay upon successful registration, com: £39.99 (other TLD pricing listed) |
-| CatchTiger | .NL, .BE, .CH, .UK, .CO.UK, .FR and .EU; Public auction two weeks prior to drop; 24 hours prior to drop auction closes; Winning bidder only pays if domain is caught |
+| [CatchTiger](https://www.catchtiger.com/en/) | .NL, .BE, .CH, .UK, .CO.UK, .FR and .EU; Public auction two weeks prior to drop; 24 hours prior to drop auction closes; Winning bidder only pays if domain is caught |
 | DomainOrder | Free backorder; pre-order from 50 Euro; no catch, no pay |
 | DropCatch | Free backorder; only pay $69 upon successful registration (if more than one backorder, it goes to public auction where anyone can join) |
 | [Dynadot](https://www.dynadot.com/market/backorder) | .COM: $14.99, .NET: $14.99, .ORG: $14.99 |
