@@ -4,7 +4,9 @@ A list of domain name backorder services.
 
 ## Description
 
-A compilation of domain backordering platforms, detailing their procedures, pricing, and unique features. Navigate the world of expired domains more efficiently with this comprehensive guide.
+Domain backorder meaning — domain backorder is a process of trying to obtain a domain once it's up for registration again. Essentially, a domain backorder acts as a reservation for a domain; you enlist yourself, and when the domain expires, you're prioritized to register it before others.
+
+This repository presents a compilation of domain backordering platforms, detailing their procedures, pricing, and unique features. Navigate the world of expired domains more efficiently with this comprehensive guide.
 
 ## Table of Contents
 
