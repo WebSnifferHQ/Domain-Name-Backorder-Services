@@ -31,9 +31,7 @@ This repository presents an up-to-date compilation of domain backordering platfo
 | [NameJet](https://partnertest.namejet.com/Pages/Services/Pricing.aspx) | Free backorder; only pay $79 upon successful registration (if more than one backorder, it goes to private auction) |
 | Nidoma | .ES and .IT; Free backorder; only pay 29€ upon successful registration |
 | Park.io | .IO, .LY, .TO, .ME, .SH, .AC, .VC, .GG, .JE, .MN, .BZ, .AG, .SC AND .LC; Free backorder; only pay $99 upon successful registration |
-| Pheenix | .BAR, .BIZ, .CC, .CLUB, .CN, .CN.COM, .CO, .CO.UK, .COM, .COM.CN, .COM.CO, .DESIGN, .FR, .INFO, .IO, .JP.NET, .LA, .LY, .ME, .MOBI, .NET, .NET.CN, .NL, .ONLINE, .ORG, .ORG.CN, .PRO, .PW, .SITE, .TECH, .TO, .TOP, .TV, .UK, .US and .XYZ; Pricing varies starting at $38.99 for .com backorders, if caught. One backorder and receive domain for minimum price; more than one backorder goes to public auction |
-| Pool | Free backorder; only pay $60 upon successful registration |
-| SnapNames | Free backorder; only pay $79 upon successful registration (if more than one backorder, it goes to private auction) |
+| [SnapNames](https://www.snapnames.com/) | Free backorder; only pay $79 upon successful registration (if more than one backorder, it goes to private auction) |
 
 ## Other Lists
 
