@@ -1,6 +1,6 @@
 # Domain Name Backorder Services
 
-A list of domain name backorder services.
+A curated list of services specializing in securing desired domain names once they become available.
 
 ## Description
 
