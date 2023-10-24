@@ -23,10 +23,10 @@ This repository presents an up-to-date compilation of domain backordering platfo
 | [123 Reg](https://www.123-reg.co.uk/domain-names/backorder/) | Free backorder; only pay upon successful registration, com: £39.99 (other TLD pricing listed) |
 | [CatchTiger](https://www.catchtiger.com/en/) | .NL, .BE, .CH, .UK, .CO.UK, .FR and .EU; Public auction two weeks prior to drop; 24 hours prior to drop auction closes; Winning bidder only pays if domain is caught |
 | DomainOrder | Free backorder; pre-order from 50 Euro; no catch, no pay |
-| DropCatch | Free backorder; only pay $69 upon successful registration (if more than one backorder, it goes to public auction where anyone can join) |
+| [DropCatch](https://www.dropcatch.com/) | Free backorder; only pay $69 upon successful registration (if more than one backorder, it goes to public auction where anyone can join) |
 | [Dynadot](https://www.dynadot.com/market/backorder) | .COM: $14.99, .NET: $14.99, .ORG: $14.99 |
 | [GoDaddy](https://www.godaddy.com/domains/domain-backorder) | Pre-pay $24.98 (or less) and use until successful for .COM, .CO, .INFO, .ORG, .NET, .ME, .MOBI, .US, .BIZ |
-| Hexonet | Free backorder; only pay $69 upon successful registration but must have sufficient funds in your account (prepaid) |
+| [Hexonet](https://www.hexonet.net/backorder) | Free backorder; only pay $69 upon successful registration but must have sufficient funds in your account (prepaid) |
 | NameCatch | .IN backorder and drop-catch service; $19.99 to place backorder with 100% satisfaction guarantee |
 | [NameJet](https://partnertest.namejet.com/Pages/Services/Pricing.aspx) | Free backorder; only pay $79 upon successful registration (if more than one backorder, it goes to private auction) |
 | Nidoma | .ES and .IT; Free backorder; only pay 29€ upon successful registration |
