@@ -2,6 +2,20 @@
 
 A list of domain name backorder services.
 
+## Description
+
+A compilation of domain backordering platforms, detailing their procedures, pricing, and unique features. Navigate the world of expired domains more efficiently with this comprehensive guide.
+
+## Table of Contents
+
+- [List of Domain Name Backorder Services](#list-of-domain-name-backorder-services)
+- [Other Lists](#other-lists)
+- [Contribute](#contribute)
+- [Feedback and Questions](#feedback-and-questions)
+- [License](#license)
+
+## List of Domain Name Backorder Services
+
 | Registrar | Description |
 |---|---|
 | 123 Reg | Free backorder; only pay upon successful registration, com: £39.99 (other TLD pricing listed) |
@@ -19,5 +33,18 @@ A list of domain name backorder services.
 | Pool | Free backorder; only pay $60 upon successful registration |
 | SnapNames | Free backorder; only pay $79 upon successful registration (if more than one backorder, it goes to private auction) |
 
-Other lists:
+## Other Lists
+
 - https://www.domainsherpa.com/domain-name-backorder-services/ (updated on September 14, 2017)
+
+## Contribute
+
+Your contributions are always welcome! If you have updates or want to add more information, please create a pull request.
+
+## Feedback and Questions
+
+For any feedback, questions, or general comments, create an issue on this repository and we'll get to it as soon as possible!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE.md] file for more details.
